@@ -28,6 +28,6 @@ Agora é só executar o front-end:
 ```sh
   $ yarn start # ou npm start
 ```
-### CONTEUDO PRODUZIDO POR MATHEUS LIVA NO YOUTUBE 
+### CONTEUDO PRODUZIDO POR MATHEUS SILVA NO YOUTUBE 
 #### https://github.com/maateusilva/youtube-context-api
 #### https://www.youtube.com/watch?v=AClyxTbfI08
